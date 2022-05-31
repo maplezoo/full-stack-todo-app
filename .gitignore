@@ -63,7 +63,7 @@ bower_components
 build/Release
 
 # Dependency directories
-todo-app/node_modules/
+front-end/todo-app/node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
